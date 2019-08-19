@@ -1,9 +1,7 @@
 # Contributing to Trinsic Labs
 
-Thanks for taking the time to contribute!
-
 The following is a set of guidelines for contributing to projects hosted in the
-[Trinsic Labs Organization](https://github.com/trinsiclabs) on GitHub. These
+[Trinsic Labs Organisation](https://github.com/trinsiclabs) on GitHub. These
 are mostly guidelines, not rules. Use your best judgment, and feel free to
 propose changes to this document in a pull request.
 
